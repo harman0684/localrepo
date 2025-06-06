@@ -1,0 +1,281 @@
+    1  pwd
+    2  ls
+    3  vim aws_resource_tracker.sh
+    4  vim ResourceTracker
+    5  cat ResourceTracker 
+    6  vim aws_resource_tracker.sh
+    7  cat ResourceTracker
+    8  vim ResourceTracker
+    9  aws ec2 describe-instances | jq 'Reservations[].Instances[].InstanceId'
+   10  aws ec2 describe-instances
+   11  ls
+   12  crontab -e
+   13  ls
+   14  pwd
+   15  crontab -l
+   16  ls
+   17  crontab -e
+   18  ls
+   19  pwd
+   20  crontab -e
+   21  ls
+   22  cd ..
+   23  ls
+   24  cd ubuntu/
+   25  crontab -e
+   26  ls
+   27  find /path/to/search -name "filename"
+   28  find /home/ubuntu -name cronjob_test.txt
+   29  ls
+   30  ls
+   31  crontab -e
+   32  ls
+   33  ls -l
+   34  crontab -e
+   35  ls
+   36  crontab -l
+   37  ls
+   38  cat first_cronjob.txt 
+   39  crontab -e
+   40  cat first_cronjob.txt
+   41  crontab -e
+   42  cat first_cronjob.txt
+   43  crontab -e
+   44  cat first_cronjob.txt
+   45  crontab -e
+   46  cat first_cronjob.txt
+   47  crontab -e
+   48  cat first_cronjob.txt
+   49  crontab -e
+   50  ls
+   51  cat aws_resource_tracker.log
+   52  ls
+   53  cat aws_resource_tracker.log
+   54  crontab -e
+   55  timedatectl
+   56  sudo timedatectl set-time '2025-04-02 15:44:00'
+   57  date
+   58  sudo timedatectl set-ntp false
+   59  sudo timedatectl set-time '2025-04-02 15:47:00'
+   60  date
+   61  timedatectl
+   62  sudo timedatectl set-ntp true
+   63  timedatectl
+   64  timedatectl list-timezones
+   65  sudo timedatectl set-timezone 'Asia/Calcutta'
+   66  sudo timedatectl set-timezone 'Asia/Kolkata'
+   67  date
+   68  pwd
+   69  LS
+   70  ls
+   71  git
+   72  git --version
+   73  ls
+   74  clear
+   75  ls
+   76  cd Harman-Demo/
+   77  ls
+   78  ls -l
+   79  ls -a
+   80  git status
+   81  ls
+   82  cat README.md
+   83  git status
+   84  git add
+   85  git add .
+   86  git status
+   87  git commit -m "Add new charactor"
+   88  git config --list
+   89  git config --global user.name "harman0684"
+   90  git config --list
+   91  git commit -m "Add new charactor"
+   92  git config --list
+   93  git status
+   94  git config --list
+   95  git push origin main
+   96  git config --global user.email "harmanpreet0684@gmail.com"
+   97  git config --list
+   98  git push origin main
+   99  git config --global user.email "you@example.com"
+  100  git push origin main
+  101  /mnt/e/Harman/Harman DevOps/GITDEMO/Harman-Demo$ git push origin main
+  102  Username for 'https://github.com': harman0684
+  103  Password for 'https://harman0684@github.com':
+  104  remote: invalid credentials
+  105  git push origin main
+  106  git status
+  107  ls
+  108  vim README.md
+  109  git status
+  110  git add .
+  111  git status
+  112  git restore --staged .
+  113  git status
+  114  git git status
+  115  git status
+  116  git add
+  117  git add .
+  118  git status
+  119  git commit -m "short name harman singh"
+  120  git status
+  121  git log
+  122  git status
+  123  git push origin main
+  124  git log
+  125  git remote -e
+  126  git remote -v
+  127  git branch
+  128  ls
+  129  cd ..
+  130  ls
+  131  mkdir localrepo
+  132  ls
+  133  cd localrepo/
+  134  ls
+  135  cd ..
+  136  ls -a
+  137  cd localrepo/
+  138  ls -a
+  139  git status
+  140  touch index.html
+  141  ls
+  142  ls -a
+  143  git init
+  144  ls -a
+  145  status
+  146  git status
+  147  git add .
+  148  git status
+  149  git commit -m "new file"
+  150  git status
+  151  git add
+  152  git add .
+  153  git status
+  154  git commit -m "add initial files" style.css
+  155  git status
+  156  git branch
+  157  git log
+  158  git remote add origin https://github.com/harman0684/localrepo.git
+  159  git remote -v
+  160  git status
+  161  git branch
+  162  git remote add origin https://github.com/harman0684/localrepo.git
+  163  git status
+  164  git log --oneline
+  165  git push origin main
+  166  git push origin master
+  167  git log --oneline
+  168  git status
+  169  git branch
+  170  git remote -v
+  171  git branch
+  172  git branch -M main
+  173  git branch
+  174  git push origin main
+  175  git branch
+  176  git add origin https://github.com/harman0684/localrepo.git
+  177  git branch
+  178  git branch -a
+  179  git branch -l
+  180  git branch -r
+  181  git fetch
+  182  git branch -r
+  183  git branch
+  184  git push -u origin main
+  185  git status
+  186  git add readme.md
+  187  git status
+  188  git commit -m "add readme"
+  189  git push
+  190  git status
+  191  git add .
+  192  git status
+  193  git commit -m "no space"
+  194  git status
+  195  git push
+  196  git status
+  197  git add .
+  198  git commit -m "fixed readme"
+  199  git status
+  200  git push
+  201  git status
+  202  git branch
+  203  git hhlk
+  204  git status
+  205  ls
+  206  cd localrepo/
+  207  ls
+  208  git branch
+  209  cd Harman-Demo
+  210  cd ..
+  211  cd Harman-Demo/
+  212  ls
+  213  ls -a
+  214  cd ..
+  215  cd localrepo/
+  216  ls -a
+  217  git status
+  218  ls
+  219  git push
+  220  git remote -v
+  221  git remote set-url origin https://@github.com/https://github.com/harman0684/localrepo.git
+  222  git remote -v
+  223  git push otigin main
+  224  git push otigin master
+  225  git remote set-url origin https://@github.com/harman0684/localrepo.git
+  226  git push origin main
+  227  git status
+  228  ls -a
+  229  ls localrepo/
+  230  git push
+  231  ls
+  232  cat index.html
+  233  vim index.html
+  234  git status
+  235  vim index.html
+  236  git add
+  237  git add index.html
+  238  git status
+  239  git commit -m "added new line"
+  240  git status
+  241  git push
+  242  git branch
+  243  git pull
+  244  git branch
+  245  git branch dev
+  246  git branch
+  247  git checkout
+  248  git branch
+  249  git switch
+  250  git switch dev
+  251  git branch
+  252  git checkout main
+  253  ls
+  254  git checkout
+  255  git switch dev
+  256  ls
+  257  git branch
+  258  git branch manster
+  259  git branch
+  260  git branch -d manster
+  261  git branch
+  262  git branch master
+  263  git branch
+  264  git branch -d master
+  265  git branch
+  266  git fetch
+  267  git branch
+  268  git branch -r
+  269  git checkout -b local-branch-name origin/remote-branch-name
+  270  git checkout -b main origin/main
+  271  ls
+  272  mkdir git-demo-new
+  273  ls
+  274  cd git-demo-new/
+  275  ls
+  276  ls -a
+  277  git clone https://github.com/harman0684/github-for-devops-workshop.git
+  278  ls
+  279  cd github-for-devops-workshop/
+  280  ls
+  281  history
